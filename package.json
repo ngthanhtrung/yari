@@ -1,6 +1,6 @@
 {
   "name": "yari",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Simple MongoDB object modeling library",
   "author": "Meo <i@meo.guru> (http://meo.guru)",
   "keywords": [
