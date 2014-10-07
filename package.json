@@ -26,10 +26,12 @@
   ],
   "readmeFilename": "README.md",
   "dependencies": {
+    "clone": "^0.1.18",
+    "extend": "^1.3.0",
     "inflection": "^1.3.5",
-    "shien": "^0.0.8",
-    "when": "^3.1.0",
-    "mongodb": "^1.4.0"
+    "mongodb": "^1.4.0",
+    "shien": "^0.0.9",
+    "when": "^3.1.0"
   },
   "devDependencies": {
     "load-grunt-tasks": "^0.4.0",
